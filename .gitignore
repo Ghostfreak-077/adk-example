@@ -1,0 +1,10 @@
+# packages
+venv
+.venv
+virtualenv
+
+# cache
+__pycache__
+
+# environment
+.env
